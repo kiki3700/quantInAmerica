@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,123520000.0
+1,Enterprise Value 3,66730000.00000001
+2,Trailing P/E ,6.34
+3,Forward P/E 1,NA
+4,PEG Ratio (5 yr expected) 1,NA
+5,Price/Sales (ttm),2.04
+6,Price/Book (mrq),0.98
+7,Enterprise Value/Revenue 3,1.10
+8,Enterprise Value/EBITDA 6,NA
+9,Beta (5Y Monthly) ,0.44
+10,52-Week Change 3,4.00%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,27.78
+13,52 Week Low 3,14.95
+14,50-Day Moving Average 3,24.24
+15,200-Day Moving Average 3,22.93
+16,Avg Vol (3 month) 3,9.66k
+17,Avg Vol (10 day) 3,13.03k
+18,Shares Outstanding 5,4750000.0
+19,Float ,3680000.0
+20,% Held by Insiders 1,22.04%
+21,% Held by Institutions 1,24.61%
+22,"Shares Short (Jan 14, 2021) 4",53.23k
+23,"Short Ratio (Jan 14, 2021) 4",4.62
+24,"Short % of Float (Jan 14, 2021) 4",1.36%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",1.12%
+26,"Shares Short (prior month Dec 14, 2020) 4",32.88k
+27,Forward Annual Dividend Rate 4,0.76
+28,Forward Annual Dividend Yield 4,2.97%
+29,Trailing Annual Dividend Rate 3,0.80
+30,Trailing Annual Dividend Yield 3,3.08%
+31,5 Year Average Dividend Yield 4,3.02
+32,Payout Ratio 4,18.58%
+33,Dividend Date 3,"Nov 24, 2020"
+34,Ex-Dividend Date 4,"Nov 08, 2020"
+35,Last Split Factor 2,105:100
+36,Last Split Date 3,"Nov 30, 2020"
+37,Fiscal Year Ends ,"Dec 30, 2020"
+38,Most Recent Quarter (mrq),"Dec 30, 2020"
+39,Profit Margin ,32.20%
+40,Operating Margin (ttm),43.42%
+41,Return on Assets (ttm),1.78%
+42,Return on Equity (ttm),16.57%
+43,Revenue (ttm),60540000.0
+44,Revenue Per Share (ttm),12.75
+45,Quarterly Revenue Growth (yoy),39.90%
+46,Gross Profit (ttm),60540000.0
+47,EBITDA ,NA
+48,Net Income Avi to Common (ttm),19490000.0
+49,Diluted EPS (ttm),4.10
+50,Quarterly Earnings Growth (yoy),71.50%
+51,Total Cash (mrq),84820000.0
+52,Total Cash Per Share (mrq),17.85
+53,Total Debt (mrq),28020000.0
+54,Total Debt/Equity (mrq),NA
+55,Current Ratio (mrq),NA
+56,Book Value Per Share (mrq),26.66
+57,Operating Cash Flow (ttm),NA
+58,Levered Free Cash Flow (ttm),NA

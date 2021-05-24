@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,3900000000.0
+1,Enterprise Value 3,3830000000.0
+2,Trailing P/E ,33.93
+3,Forward P/E 1,22.68
+4,PEG Ratio (5 yr expected) 1,2.29
+5,Price/Sales (ttm),3.30
+6,Price/Book (mrq),3.24
+7,Enterprise Value/Revenue 3,3.25
+8,Enterprise Value/EBITDA 6,15.93
+9,Beta (5Y Monthly) ,1.16
+10,52-Week Change 3,48.94%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,81.26
+13,52 Week Low 3,31.51
+14,50-Day Moving Average 3,74.01
+15,200-Day Moving Average 3,61.31
+16,Avg Vol (3 month) 3,270.18k
+17,Avg Vol (10 day) 3,216.5k
+18,Shares Outstanding 5,52040000.0
+19,Float ,42640000.0
+20,% Held by Insiders 1,17.15%
+21,% Held by Institutions 1,81.85%
+22,"Shares Short (Jan 14, 2021) 4",820.66k
+23,"Short Ratio (Jan 14, 2021) 4",2.8
+24,"Short % of Float (Jan 14, 2021) 4",2.28%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",1.58%
+26,"Shares Short (prior month Dec 14, 2020) 4",710.7k
+27,Forward Annual Dividend Rate 4,NA
+28,Forward Annual Dividend Yield 4,NA
+29,Trailing Annual Dividend Rate 3,NA
+30,Trailing Annual Dividend Yield 3,NA
+31,5 Year Average Dividend Yield 4,NA
+32,Payout Ratio 4,0.00%
+33,Dividend Date 3,NA
+34,Ex-Dividend Date 4,NA
+35,Last Split Factor 2,3:2
+36,Last Split Date 3,"Jul 30, 2007"
+37,Fiscal Year Ends ,"Dec 30, 2019"
+38,Most Recent Quarter (mrq),"Sep 29, 2020"
+39,Profit Margin ,9.79%
+40,Operating Margin (ttm),11.14%
+41,Return on Assets (ttm),4.51%
+42,Return on Equity (ttm),10.03%
+43,Revenue (ttm),1180000000.0
+44,Revenue Per Share (ttm),22.94
+45,Quarterly Revenue Growth (yoy),-4.40%
+46,Gross Profit (ttm),465810000.0
+47,EBITDA ,240410000.0
+48,Net Income Avi to Common (ttm),115540000.0
+49,Diluted EPS (ttm),2.21
+50,Quarterly Earnings Growth (yoy),-28.70%
+51,Total Cash (mrq),590660000.0
+52,Total Cash Per Share (mrq),11.35
+53,Total Debt (mrq),451610000.0
+54,Total Debt/Equity (mrq),36.10
+55,Current Ratio (mrq),3.78
+56,Book Value Per Share (mrq),23.07
+57,Operating Cash Flow (ttm),178500000.0
+58,Levered Free Cash Flow (ttm),37750000.0

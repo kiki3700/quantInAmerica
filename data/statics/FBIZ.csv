@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,180930000.0
+1,Enterprise Value 3,565550000.0
+2,Trailing P/E ,10.78
+3,Forward P/E 1,7.90
+4,PEG Ratio (5 yr expected) 1,1.01
+5,Price/Sales (ttm),2.13
+6,Price/Book (mrq),0.88
+7,Enterprise Value/Revenue 3,6.67
+8,Enterprise Value/EBITDA 6,NA
+9,Beta (5Y Monthly) ,1.04
+10,52-Week Change 3,-14.87%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,26.28
+13,52 Week Low 3,12.86
+14,50-Day Moving Average 3,19.38
+15,200-Day Moving Average 3,17.41
+16,Avg Vol (3 month) 3,15.52k
+17,Avg Vol (10 day) 3,23.94k
+18,Shares Outstanding 5,8520000.0
+19,Float ,7310000.0
+20,% Held by Insiders 1,5.01%
+21,% Held by Institutions 1,66.75%
+22,"Shares Short (Jan 14, 2021) 4",52.59k
+23,"Short Ratio (Jan 14, 2021) 4",3.21
+24,"Short % of Float (Jan 14, 2021) 4",0.65%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",0.62%
+26,"Shares Short (prior month Dec 14, 2020) 4",46.12k
+27,Forward Annual Dividend Rate 4,0.72
+28,Forward Annual Dividend Yield 4,3.30%
+29,Trailing Annual Dividend Rate 3,0.66
+30,Trailing Annual Dividend Yield 3,3.05%
+31,5 Year Average Dividend Yield 4,2.57
+32,Payout Ratio 4,33.50%
+33,Dividend Date 3,"Nov 11, 2020"
+34,Ex-Dividend Date 4,"Feb 04, 2021"
+35,Last Split Factor 2,2:1
+36,Last Split Date 3,"Aug 30, 2015"
+37,Fiscal Year Ends ,"Dec 30, 2020"
+38,Most Recent Quarter (mrq),"Dec 30, 2020"
+39,Profit Margin ,20.02%
+40,Operating Margin (ttm),24.37%
+41,Return on Assets (ttm),0.73%
+42,Return on Equity (ttm),8.48%
+43,Revenue (ttm),84810000.0
+44,Revenue Per Share (ttm),10.11
+45,Quarterly Revenue Growth (yoy),2.40%
+46,Gross Profit (ttm),84810000.0
+47,EBITDA ,NA
+48,Net Income Avi to Common (ttm),16980000.0
+49,Diluted EPS (ttm),1.97
+50,Quarterly Earnings Growth (yoy),5.50%
+51,Total Cash (mrq),56910000.0
+52,Total Cash Per Share (mrq),6.64
+53,Total Debt (mrq),435620000.0
+54,Total Debt/Equity (mrq),NA
+55,Current Ratio (mrq),NA
+56,Book Value Per Share (mrq),24.07
+57,Operating Cash Flow (ttm),NA
+58,Levered Free Cash Flow (ttm),NA

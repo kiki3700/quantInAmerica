@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,3440000000.0
+1,Enterprise Value 3,5440000000.0
+2,Trailing P/E ,19.38
+3,Forward P/E 1,18.31
+4,PEG Ratio (5 yr expected) 1,2.94
+5,Price/Sales (ttm),2.98
+6,Price/Book (mrq),1.51
+7,Enterprise Value/Revenue 3,4.72
+8,Enterprise Value/EBITDA 6,14.14
+9,Beta (5Y Monthly) ,0.45
+10,52-Week Change 3,-22.21%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,82.94
+13,52 Week Low 3,48.22
+14,50-Day Moving Average 3,63.40
+15,200-Day Moving Average 3,57.48
+16,Avg Vol (3 month) 3,341.55k
+17,Avg Vol (10 day) 3,383.34k
+18,Shares Outstanding 5,51970000.0
+19,Float ,51780000.0
+20,% Held by Insiders 1,0.46%
+21,% Held by Institutions 1,73.36%
+22,"Shares Short (Jan 14, 2021) 4",1210000.0
+23,"Short Ratio (Jan 14, 2021) 4",3.47
+24,"Short % of Float (Jan 14, 2021) 4",3.01%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",2.32%
+26,"Shares Short (prior month Dec 14, 2020) 4",999k
+27,Forward Annual Dividend Rate 4,2.47
+28,Forward Annual Dividend Yield 4,3.87%
+29,Trailing Annual Dividend Rate 3,2.44
+30,Trailing Annual Dividend Yield 3,3.82%
+31,5 Year Average Dividend Yield 4,3.24
+32,Payout Ratio 4,71.55%
+33,Dividend Date 3,"Nov 30, 2020"
+34,Ex-Dividend Date 4,"Nov 12, 2020"
+35,Last Split Factor 2,1:3
+36,Last Split Date 3,"Sep 20, 2004"
+37,Fiscal Year Ends ,"Dec 30, 2019"
+38,Most Recent Quarter (mrq),"Sep 29, 2020"
+39,Profit Margin ,15.33%
+40,Operating Margin (ttm),15.03%
+41,Return on Assets (ttm),1.94%
+42,Return on Equity (ttm),7.30%
+43,Revenue (ttm),1150000000.0
+44,Revenue Per Share (ttm),22.29
+45,Quarterly Revenue Growth (yoy),1.90%
+46,Gross Profit (ttm),435100000.0
+47,EBITDA ,384700000.0
+48,Net Income Avi to Common (ttm),176800000.0
+49,Diluted EPS (ttm),3.41
+50,Quarterly Earnings Growth (yoy),30.40%
+51,Total Cash (mrq),79000000.0
+52,Total Cash Per Share (mrq),1.52
+53,Total Debt (mrq),2040000000.0
+54,Total Debt/Equity (mrq),83.27
+55,Current Ratio (mrq),0.42
+56,Book Value Per Share (mrq),43.89
+57,Operating Cash Flow (ttm),317000000.0
+58,Levered Free Cash Flow (ttm),-457320000.0

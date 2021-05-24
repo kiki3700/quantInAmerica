@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,2000000000.0
+1,Enterprise Value 3,1620000000.0
+2,Trailing P/E ,NA
+3,Forward P/E 1,-13.60
+4,PEG Ratio (5 yr expected) 1,NA
+5,Price/Sales (ttm),20.29
+6,Price/Book (mrq),6.70
+7,Enterprise Value/Revenue 3,16.43
+8,Enterprise Value/EBITDA 6,-18.70
+9,Beta (5Y Monthly) ,NA
+10,52-Week Change 3,75.68%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,32.05
+13,52 Week Low 3,9.24
+14,50-Day Moving Average 3,28.07
+15,200-Day Moving Average 3,21.31
+16,Avg Vol (3 month) 3,277.74k
+17,Avg Vol (10 day) 3,231.4k
+18,Shares Outstanding 5,74370000.0
+19,Float ,27750000.0
+20,% Held by Insiders 1,27.59%
+21,% Held by Institutions 1,61.77%
+22,"Shares Short (Jan 14, 2021) 4",1750000.0
+23,"Short Ratio (Jan 14, 2021) 4",3.81
+24,"Short % of Float (Jan 14, 2021) 4",5.87%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",2.36%
+26,"Shares Short (prior month Dec 14, 2020) 4",3690000.0
+27,Forward Annual Dividend Rate 4,NA
+28,Forward Annual Dividend Yield 4,NA
+29,Trailing Annual Dividend Rate 3,NA
+30,Trailing Annual Dividend Yield 3,NA
+31,5 Year Average Dividend Yield 4,NA
+32,Payout Ratio 4,0.00%
+33,Dividend Date 3,NA
+34,Ex-Dividend Date 4,NA
+35,Last Split Factor 2,NA
+36,Last Split Date 3,NA
+37,Fiscal Year Ends ,"Dec 30, 2019"
+38,Most Recent Quarter (mrq),"Sep 29, 2020"
+39,Profit Margin ,-91.64%
+40,Operating Margin (ttm),-94.70%
+41,Return on Assets (ttm),-16.30%
+42,Return on Equity (ttm),-29.37%
+43,Revenue (ttm),98680000.0
+44,Revenue Per Share (ttm),1.46
+45,Quarterly Revenue Growth (yoy),8.90%
+46,Gross Profit (ttm),41290000.0
+47,EBITDA ,-86690000.0
+48,Net Income Avi to Common (ttm),-90440000.0
+49,Diluted EPS (ttm),-1.33
+50,Quarterly Earnings Growth (yoy),NA
+51,Total Cash (mrq),287950000.0
+52,Total Cash Per Share (mrq),4.17
+53,Total Debt (mrq),NA
+54,Total Debt/Equity (mrq),NA
+55,Current Ratio (mrq),8.01
+56,Book Value Per Share (mrq),4.01
+57,Operating Cash Flow (ttm),-78060000.0
+58,Levered Free Cash Flow (ttm),-47530000.0

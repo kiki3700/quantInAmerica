@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,3660000000.0
+1,Enterprise Value 3,2380000000.0
+2,Trailing P/E ,22.17
+3,Forward P/E 1,22.99
+4,PEG Ratio (5 yr expected) 1,2.84
+5,Price/Sales (ttm),6.29
+6,Price/Book (mrq),1.74
+7,Enterprise Value/Revenue 3,4.09
+8,Enterprise Value/EBITDA 6,NA
+9,Beta (5Y Monthly) ,0.71
+10,52-Week Change 3,0.31%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,70.62
+13,52 Week Low 3,47.01
+14,50-Day Moving Average 3,65.65
+15,200-Day Moving Average 3,61.10
+16,Avg Vol (3 month) 3,250.21k
+17,Avg Vol (10 day) 3,349.52k
+18,Shares Outstanding 5,53590000.0
+19,Float ,52870000.0
+20,% Held by Insiders 1,1.35%
+21,% Held by Institutions 1,72.62%
+22,"Shares Short (Jan 14, 2021) 4",1610000.0
+23,"Short Ratio (Jan 14, 2021) 4",6.47
+24,"Short % of Float (Jan 14, 2021) 4",4.06%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",3.00%
+26,"Shares Short (prior month Dec 14, 2020) 4",1580000.0
+27,Forward Annual Dividend Rate 4,1.68
+28,Forward Annual Dividend Yield 4,2.46%
+29,Trailing Annual Dividend Rate 3,1.66
+30,Trailing Annual Dividend Yield 3,2.43%
+31,5 Year Average Dividend Yield 4,2.49
+32,Payout Ratio 4,53.90%
+33,Dividend Date 3,"Jan 10, 2021"
+34,Ex-Dividend Date 4,"Dec 10, 2020"
+35,Last Split Factor 2,2:1
+36,Last Split Date 3,"Apr 12, 2004"
+37,Fiscal Year Ends ,"Dec 30, 2020"
+38,Most Recent Quarter (mrq),"Dec 30, 2020"
+39,Profit Margin ,28.29%
+40,Operating Margin (ttm),39.13%
+41,Return on Assets (ttm),1.30%
+42,Return on Equity (ttm),8.32%
+43,Revenue (ttm),582190000.0
+44,Revenue Per Share (ttm),10.96
+45,Quarterly Revenue Growth (yoy),4.30%
+46,Gross Profit (ttm),582190000.0
+47,EBITDA ,NA
+48,Net Income Avi to Common (ttm),164680000.0
+49,Diluted EPS (ttm),3.08
+50,Quarterly Earnings Growth (yoy),8.40%
+51,Total Cash (mrq),1650000000.0
+52,Total Cash Per Share (mrq),30.71
+53,Total Debt (mrq),371290000.0
+54,Total Debt/Equity (mrq),NA
+55,Current Ratio (mrq),NA
+56,Book Value Per Share (mrq),39.26
+57,Operating Cash Flow (ttm),NA
+58,Levered Free Cash Flow (ttm),NA

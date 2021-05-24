@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,3490000000.0
+1,Enterprise Value 3,7120000000.0
+2,Trailing P/E ,18.21
+3,Forward P/E 1,11.26
+4,PEG Ratio (5 yr expected) 1,1.32
+5,Price/Sales (ttm),4.94
+6,Price/Book (mrq),1.17
+7,Enterprise Value/Revenue 3,10.08
+8,Enterprise Value/EBITDA 6,NA
+9,Beta (5Y Monthly) ,1.39
+10,52-Week Change 3,13.35%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,40.31
+13,52 Week Low 3,13.47
+14,50-Day Moving Average 3,36.28
+15,200-Day Moving Average 3,27.52
+16,Avg Vol (3 month) 3,584.76k
+17,Avg Vol (10 day) 3,518.86k
+18,Shares Outstanding 5,93070000.0
+19,Float ,92280000.0
+20,% Held by Insiders 1,0.85%
+21,% Held by Institutions 1,106.03%
+22,"Shares Short (Jan 14, 2021) 4",2360000.0
+23,"Short Ratio (Jan 14, 2021) 4",3.88
+24,"Short % of Float (Jan 14, 2021) 4",2.57%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",2.54%
+26,"Shares Short (prior month Dec 14, 2020) 4",1810000.0
+27,Forward Annual Dividend Rate 4,0.92
+28,Forward Annual Dividend Yield 4,2.45%
+29,Trailing Annual Dividend Rate 3,0.92
+30,Trailing Annual Dividend Yield 3,2.45%
+31,5 Year Average Dividend Yield 4,2.67
+32,Payout Ratio 4,43.69%
+33,Dividend Date 3,"Jan 28, 2021"
+34,Ex-Dividend Date 4,"Jan 12, 2021"
+35,Last Split Factor 2,NA
+36,Last Split Date 3,NA
+37,Fiscal Year Ends ,"Dec 30, 2020"
+38,Most Recent Quarter (mrq),"Dec 30, 2020"
+39,Profit Margin ,28.00%
+40,Operating Margin (ttm),39.06%
+41,Return on Assets (ttm),0.58%
+42,Return on Equity (ttm),6.64%
+43,Revenue (ttm),706550000.0
+44,Revenue Per Share (ttm),7.70
+45,Quarterly Revenue Growth (yoy),3.00%
+46,Gross Profit (ttm),706550000.0
+47,EBITDA ,NA
+48,Net Income Avi to Common (ttm),188970000.0
+49,Diluted EPS (ttm),2.06
+50,Quarterly Earnings Growth (yoy),-4.20%
+51,Total Cash (mrq),397720000.0
+52,Total Cash Per Share (mrq),4.27
+53,Total Debt (mrq),4030000000.0000005
+54,Total Debt/Equity (mrq),NA
+55,Current Ratio (mrq),NA
+56,Book Value Per Share (mrq),32.05
+57,Operating Cash Flow (ttm),NA
+58,Levered Free Cash Flow (ttm),NA

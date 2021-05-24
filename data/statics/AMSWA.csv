@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,657590000.0
+1,Enterprise Value 3,557890000.0
+2,Trailing P/E ,100.90
+3,Forward P/E 1,67.27
+4,PEG Ratio (5 yr expected) 1,5.62
+5,Price/Sales (ttm),5.72
+6,Price/Book (mrq),5.51
+7,Enterprise Value/Revenue 3,4.85
+8,Enterprise Value/EBITDA 6,71.53
+9,Beta (5Y Monthly) ,0.50
+10,52-Week Change 3,36.26%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,21.48
+13,52 Week Low 3,9.05
+14,50-Day Moving Average 3,18.49
+15,200-Day Moving Average 3,16.34
+16,Avg Vol (3 month) 3,123.79k
+17,Avg Vol (10 day) 3,115.55k
+18,Shares Outstanding 5,30760000.0
+19,Float ,28380000.0
+20,% Held by Insiders 1,2.99%
+21,% Held by Institutions 1,108.14%
+22,"Shares Short (Jan 14, 2021) 4",609.51k
+23,"Short Ratio (Jan 14, 2021) 4",4.92
+24,"Short % of Float (Jan 14, 2021) 4",2.30%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",1.87%
+26,"Shares Short (prior month Dec 14, 2020) 4",461.55k
+27,Forward Annual Dividend Rate 4,0.44
+28,Forward Annual Dividend Yield 4,2.21%
+29,Trailing Annual Dividend Rate 3,0.44
+30,Trailing Annual Dividend Yield 3,2.22%
+31,5 Year Average Dividend Yield 4,3.47
+32,Payout Ratio 4,220.00%
+33,Dividend Date 3,"Feb 18, 2021"
+34,Ex-Dividend Date 4,"Feb 03, 2021"
+35,Last Split Factor 2,3:2
+36,Last Split Date 3,"Jul 23, 1990"
+37,Fiscal Year Ends ,"Apr 29, 2020"
+38,Most Recent Quarter (mrq),"Oct 30, 2020"
+39,Profit Margin ,5.70%
+40,Operating Margin (ttm),5.15%
+41,Return on Assets (ttm),2.24%
+42,Return on Equity (ttm),5.53%
+43,Revenue (ttm),115030000.0
+44,Revenue Per Share (ttm),3.57
+45,Quarterly Revenue Growth (yoy),-1.20%
+46,Gross Profit (ttm),63160000.0
+47,EBITDA ,7800000.0
+48,Net Income Avi to Common (ttm),6560000.0
+49,Diluted EPS (ttm),0.20
+50,Quarterly Earnings Growth (yoy),-60.70%
+51,Total Cash (mrq),94140000.0
+52,Total Cash Per Share (mrq),2.89
+53,Total Debt (mrq),1930000.0
+54,Total Debt/Equity (mrq),1.62
+55,Current Ratio (mrq),2.96
+56,Book Value Per Share (mrq),3.66
+57,Operating Cash Flow (ttm),28700000.0
+58,Levered Free Cash Flow (ttm),5760000.0

@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,1880000000.0
+1,Enterprise Value 3,2290000000.0
+2,Trailing P/E ,12.48
+3,Forward P/E 1,10.95
+4,PEG Ratio (5 yr expected) 1,1.09
+5,Price/Sales (ttm),3.50
+6,Price/Book (mrq),0.95
+7,Enterprise Value/Revenue 3,4.28
+8,Enterprise Value/EBITDA 6,NA
+9,Beta (5Y Monthly) ,1.32
+10,52-Week Change 3,-9.37%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,51.85
+13,52 Week Low 3,25.26
+14,50-Day Moving Average 3,43.02
+15,200-Day Moving Average 3,36.68
+16,Avg Vol (3 month) 3,139.34k
+17,Avg Vol (10 day) 3,171.11k
+18,Shares Outstanding 5,42090000.0
+19,Float ,38050000.0
+20,% Held by Insiders 1,6.48%
+21,% Held by Institutions 1,59.52%
+22,"Shares Short (Jan 14, 2021) 4",447.42k
+23,"Short Ratio (Jan 14, 2021) 4",2.71
+24,"Short % of Float (Jan 14, 2021) 4",1.13%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",1.06%
+26,"Shares Short (prior month Dec 14, 2020) 4",382.11k
+27,Forward Annual Dividend Rate 4,0.88
+28,Forward Annual Dividend Yield 4,1.95%
+29,Trailing Annual Dividend Rate 3,0.80
+30,Trailing Annual Dividend Yield 3,1.77%
+31,5 Year Average Dividend Yield 4,1.29
+32,Payout Ratio 4,25.23%
+33,Dividend Date 3,"Feb 25, 2021"
+34,Ex-Dividend Date 4,"Feb 10, 2021"
+35,Last Split Factor 2,3:2
+36,Last Split Date 3,"Dec 29, 2003"
+37,Fiscal Year Ends ,"Dec 30, 2020"
+38,Most Recent Quarter (mrq),"Dec 30, 2020"
+39,Profit Margin ,25.73%
+40,Operating Margin (ttm),35.70%
+41,Return on Assets (ttm),0.89%
+42,Return on Equity (ttm),7.54%
+43,Revenue (ttm),536049999.99999994
+44,Revenue Per Share (ttm),14.35
+45,Quarterly Revenue Growth (yoy),10.10%
+46,Gross Profit (ttm),536049999.99999994
+47,EBITDA ,NA
+48,Net Income Avi to Common (ttm),133490000.00000001
+49,Diluted EPS (ttm),3.57
+50,Quarterly Earnings Growth (yoy),5.20%
+51,Total Cash (mrq),341030000.0
+52,Total Cash Per Share (mrq),8.1
+53,Total Debt (mrq),624910000.0
+54,Total Debt/Equity (mrq),NA
+55,Current Ratio (mrq),NA
+56,Book Value Per Share (mrq),46.76
+57,Operating Cash Flow (ttm),NA
+58,Levered Free Cash Flow (ttm),NA

@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,2770000000.0
+1,Enterprise Value 3,1350000000.0
+2,Trailing P/E ,11.07
+3,Forward P/E 1,12.58
+4,PEG Ratio (5 yr expected) 1,2.59
+5,Price/Sales (ttm),3.35
+6,Price/Book (mrq),0.95
+7,Enterprise Value/Revenue 3,1.63
+8,Enterprise Value/EBITDA 6,NA
+9,Beta (5Y Monthly) ,0.93
+10,52-Week Change 3,3.67%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,27.19
+13,52 Week Low 3,13.75
+14,50-Day Moving Average 3,24.19
+15,200-Day Moving Average 3,19.32
+16,Avg Vol (3 month) 3,534.64k
+17,Avg Vol (10 day) 3,620.31k
+18,Shares Outstanding 5,108080000.0
+19,Float ,107060000.0
+20,% Held by Insiders 1,1.46%
+21,% Held by Institutions 1,81.21%
+22,"Shares Short (Jan 14, 2021) 4",3800000.0
+23,"Short Ratio (Jan 14, 2021) 4",6.36
+24,"Short % of Float (Jan 14, 2021) 4",4.80%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",3.51%
+26,"Shares Short (prior month Dec 14, 2020) 4",2910000.0
+27,Forward Annual Dividend Rate 4,0.72
+28,Forward Annual Dividend Yield 4,2.86%
+29,Trailing Annual Dividend Rate 3,0.67
+30,Trailing Annual Dividend Yield 3,2.60%
+31,5 Year Average Dividend Yield 4,2.34
+32,Payout Ratio 4,29.31%
+33,Dividend Date 3,"Apr 04, 2021"
+34,Ex-Dividend Date 4,"Mar 11, 2021"
+35,Last Split Factor 2,2:1
+36,Last Split Date 3,"Feb 08, 2018"
+37,Fiscal Year Ends ,"Dec 30, 2019"
+38,Most Recent Quarter (mrq),"Dec 30, 2020"
+39,Profit Margin ,30.73%
+40,Operating Margin (ttm),44.03%
+41,Return on Assets (ttm),1.30%
+42,Return on Equity (ttm),9.28%
+43,Revenue (ttm),828640000.0
+44,Revenue Per Share (ttm),7.55
+45,Quarterly Revenue Growth (yoy),-7.60%
+46,Gross Profit (ttm),763540000.0
+47,EBITDA ,NA
+48,Net Income Avi to Common (ttm),254610000.0
+49,Diluted EPS (ttm),2.32
+50,Quarterly Earnings Growth (yoy),0.50%
+51,Total Cash (mrq),3470000000.0
+52,Total Cash Per Share (mrq),31.91
+53,Total Debt (mrq),2020000000.0
+54,Total Debt/Equity (mrq),NA
+55,Current Ratio (mrq),NA
+56,Book Value Per Share (mrq),26.98
+57,Operating Cash Flow (ttm),144860000.0
+58,Levered Free Cash Flow (ttm),NA

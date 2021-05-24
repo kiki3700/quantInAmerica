@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,3210000000.0
+1,Enterprise Value 3,3050000000.0
+2,Trailing P/E ,541.20
+3,Forward P/E 1,27.45
+4,PEG Ratio (5 yr expected) 1,1.72
+5,Price/Sales (ttm),4.09
+6,Price/Book (mrq),3.26
+7,Enterprise Value/Revenue 3,3.89
+8,Enterprise Value/EBITDA 6,30.55
+9,Beta (5Y Monthly) ,1.84
+10,52-Week Change 3,46.96%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,184.82
+13,52 Week Low 3,75.72
+14,50-Day Moving Average 3,163.32
+15,200-Day Moving Average 3,132.11
+16,Avg Vol (3 month) 3,94.57k
+17,Avg Vol (10 day) 3,57.2k
+18,Shares Outstanding 5,18680000.0
+19,Float ,18480000.0
+20,% Held by Insiders 1,1.10%
+21,% Held by Institutions 1,98.71%
+22,"Shares Short (Jan 14, 2021) 4",355.86k
+23,"Short Ratio (Jan 14, 2021) 4",3.26
+24,"Short % of Float (Jan 14, 2021) 4",2.59%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",1.91%
+26,"Shares Short (prior month Dec 14, 2020) 4",351.13k
+27,Forward Annual Dividend Rate 4,NA
+28,Forward Annual Dividend Yield 4,NA
+29,Trailing Annual Dividend Rate 3,NA
+30,Trailing Annual Dividend Yield 3,NA
+31,5 Year Average Dividend Yield 4,NA
+32,Payout Ratio 4,0.00%
+33,Dividend Date 3,NA
+34,Ex-Dividend Date 4,"Jan 08, 1992"
+35,Last Split Factor 2,2:1
+36,Last Split Date 3,"May 29, 2000"
+37,Fiscal Year Ends ,"Dec 30, 2019"
+38,Most Recent Quarter (mrq),"Sep 29, 2020"
+39,Profit Margin ,0.77%
+40,Operating Margin (ttm),5.02%
+41,Return on Assets (ttm),1.96%
+42,Return on Equity (ttm),0.63%
+43,Revenue (ttm),785680000.0
+44,Revenue Per Share (ttm),42.12
+45,Quarterly Revenue Growth (yoy),-9.00%
+46,Gross Profit (ttm),314290000.0
+47,EBITDA ,99990000.0
+48,Net Income Avi to Common (ttm),6030000.0
+49,Diluted EPS (ttm),0.32
+50,Quarterly Earnings Growth (yoy),-70.00%
+51,Total Cash (mrq),186120000.0
+52,Total Cash Per Share (mrq),9.97
+53,Total Debt (mrq),68590000.0
+54,Total Debt/Equity (mrq),6.95
+55,Current Ratio (mrq),4.46
+56,Book Value Per Share (mrq),52.85
+57,Operating Cash Flow (ttm),159320000.0
+58,Levered Free Cash Flow (ttm),78640000.0

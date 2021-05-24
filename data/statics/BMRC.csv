@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,502490000.0
+1,Enterprise Value 3,335070000.0
+2,Trailing P/E ,16.77
+3,Forward P/E 1,18.99
+4,PEG Ratio (5 yr expected) 1,2.01
+5,Price/Sales (ttm),4.99
+6,Price/Book (mrq),1.40
+7,Enterprise Value/Revenue 3,3.33
+8,Enterprise Value/EBITDA 6,NA
+9,Beta (5Y Monthly) ,0.84
+10,52-Week Change 3,-15.61%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,44.76
+13,52 Week Low 3,23.80
+14,50-Day Moving Average 3,37.53
+15,200-Day Moving Average 3,33.77
+16,Avg Vol (3 month) 3,33.74k
+17,Avg Vol (10 day) 3,36.62k
+18,Shares Outstanding 5,13500000.0
+19,Float ,12990000.0
+20,% Held by Insiders 1,12.96%
+21,% Held by Institutions 1,45.62%
+22,"Shares Short (Jan 14, 2021) 4",195.25k
+23,"Short Ratio (Jan 14, 2021) 4",5.04
+24,"Short % of Float (Jan 14, 2021) 4",1.50%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",1.45%
+26,"Shares Short (prior month Dec 14, 2020) 4",199.05k
+27,Forward Annual Dividend Rate 4,0.92
+28,Forward Annual Dividend Yield 4,2.46%
+29,Trailing Annual Dividend Rate 3,0.92
+30,Trailing Annual Dividend Yield 3,2.50%
+31,5 Year Average Dividend Yield 4,1.89
+32,Payout Ratio 4,41.44%
+33,Dividend Date 3,"Feb 11, 2021"
+34,Ex-Dividend Date 4,"Feb 03, 2021"
+35,Last Split Factor 2,2:1
+36,Last Split Date 3,"Nov 27, 2018"
+37,Fiscal Year Ends ,"Dec 30, 2020"
+38,Most Recent Quarter (mrq),"Dec 30, 2020"
+39,Profit Margin ,30.06%
+40,Operating Margin (ttm),42.69%
+41,Return on Assets (ttm),1.08%
+42,Return on Equity (ttm),8.70%
+43,Revenue (ttm),100610000.0
+44,Revenue Per Share (ttm),7.44
+45,Quarterly Revenue Growth (yoy),4.50%
+46,Gross Profit (ttm),100610000.0
+47,EBITDA ,NA
+48,Net Income Avi to Common (ttm),30240000.0
+49,Diluted EPS (ttm),2.22
+50,Quarterly Earnings Growth (yoy),-10.60%
+51,Total Cash (mrq),200320000.0
+52,Total Cash Per Share (mrq),14.81
+53,Total Debt (mrq),29900000.0
+54,Total Debt/Equity (mrq),NA
+55,Current Ratio (mrq),NA
+56,Book Value Per Share (mrq),26.67
+57,Operating Cash Flow (ttm),NA
+58,Levered Free Cash Flow (ttm),NA

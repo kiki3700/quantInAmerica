@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,4330000000.0
+1,Enterprise Value 3,4290000000.0
+2,Trailing P/E ,42.29
+3,Forward P/E 1,20.29
+4,PEG Ratio (5 yr expected) 1,4.09
+5,Price/Sales (ttm),3.13
+6,Price/Book (mrq),5.63
+7,Enterprise Value/Revenue 3,3.10
+8,Enterprise Value/EBITDA 6,19.87
+9,Beta (5Y Monthly) ,1.81
+10,52-Week Change 3,59.15%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,125.55
+13,52 Week Low 3,33.38
+14,50-Day Moving Average 3,107.44
+15,200-Day Moving Average 3,83.85
+16,Avg Vol (3 month) 3,268.61k
+17,Avg Vol (10 day) 3,274.09k
+18,Shares Outstanding 5,38270000.0
+19,Float ,37910000.0
+20,% Held by Insiders 1,1.43%
+21,% Held by Institutions 1,100.05%
+22,"Shares Short (Jan 14, 2021) 4",1140000.0
+23,"Short Ratio (Jan 14, 2021) 4",4.57
+24,"Short % of Float (Jan 14, 2021) 4",4.09%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",2.99%
+26,"Shares Short (prior month Dec 14, 2020) 4",1030000.0
+27,Forward Annual Dividend Rate 4,NA
+28,Forward Annual Dividend Yield 4,NA
+29,Trailing Annual Dividend Rate 3,NA
+30,Trailing Annual Dividend Yield 3,NA
+31,5 Year Average Dividend Yield 4,NA
+32,Payout Ratio 4,0.00%
+33,Dividend Date 3,NA
+34,Ex-Dividend Date 4,NA
+35,Last Split Factor 2,NA
+36,Last Split Date 3,NA
+37,Fiscal Year Ends ,"Dec 30, 2019"
+38,Most Recent Quarter (mrq),"Sep 29, 2020"
+39,Profit Margin ,7.45%
+40,Operating Margin (ttm),12.27%
+41,Return on Assets (ttm),6.55%
+42,Return on Equity (ttm),14.52%
+43,Revenue (ttm),1380000000.0
+44,Revenue Per Share (ttm),36.09
+45,Quarterly Revenue Growth (yoy),122.40%
+46,Gross Profit (ttm),327830000.0
+47,EBITDA ,216050000.0
+48,Net Income Avi to Common (ttm),103730000.0
+49,Diluted EPS (ttm),2.67
+50,Quarterly Earnings Growth (yoy),498.70%
+51,Total Cash (mrq),431580000.0
+52,Total Cash Per Share (mrq),11.28
+53,Total Debt (mrq),444610000.0
+54,Total Debt/Equity (mrq),57.84
+55,Current Ratio (mrq),2.91
+56,Book Value Per Share (mrq),20.07
+57,Operating Cash Flow (ttm),153590000.0
+58,Levered Free Cash Flow (ttm),98150000.0

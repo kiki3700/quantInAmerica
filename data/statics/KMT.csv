@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,2980000000.0
+1,Enterprise Value 3,3510000000.0
+2,Trailing P/E ,NA
+3,Forward P/E 1,22.91
+4,PEG Ratio (5 yr expected) 1,1.71
+5,Price/Sales (ttm),1.75
+6,Price/Book (mrq),2.34
+7,Enterprise Value/Revenue 3,2.06
+8,Enterprise Value/EBITDA 6,13.23
+9,Beta (5Y Monthly) ,NA
+10,52-Week Change 3,18.56%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,41.80
+13,52 Week Low 3,14.45
+14,50-Day Moving Average 3,38.23
+15,200-Day Moving Average 3,33.22
+16,Avg Vol (3 month) 3,615.41k
+17,Avg Vol (10 day) 3,1030000.0
+18,Shares Outstanding 5,83280000.0
+19,Float ,83130000.0
+20,% Held by Insiders 1,0.55%
+21,% Held by Institutions 1,106.08%
+22,"Shares Short (Jan 14, 2021) 4",4480000.0
+23,"Short Ratio (Jan 14, 2021) 4",8.92
+24,"Short % of Float (Jan 14, 2021) 4",6.96%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",5.38%
+26,"Shares Short (prior month Dec 14, 2020) 4",4250000.0
+27,Forward Annual Dividend Rate 4,0.8
+28,Forward Annual Dividend Yield 4,2.23%
+29,Trailing Annual Dividend Rate 3,0.80
+30,Trailing Annual Dividend Yield 3,2.27%
+31,5 Year Average Dividend Yield 4,2.45
+32,Payout Ratio 4,NA
+33,Dividend Date 3,"Nov 23, 2020"
+34,Ex-Dividend Date 4,"Feb 07, 2021"
+35,Last Split Factor 2,2:1
+36,Last Split Date 3,"Dec 18, 2007"
+37,Fiscal Year Ends ,"Jun 29, 2020"
+38,Most Recent Quarter (mrq),"Dec 30, 2020"
+39,Profit Margin ,-0.50%
+40,Operating Margin (ttm),8.48%
+41,Return on Assets (ttm),3.45%
+42,Return on Equity (ttm),-0.51%
+43,Revenue (ttm),1700000000.0
+44,Revenue Per Share (ttm),20.45
+45,Quarterly Revenue Growth (yoy),-12.80%
+46,Gross Profit (ttm),544470000.0
+47,EBITDA ,265240000.0
+48,Net Income Avi to Common (ttm),-8480000.0
+49,Diluted EPS (ttm),-0.11
+50,Quarterly Earnings Growth (yoy),NA
+51,Total Cash (mrq),103190000.0
+52,Total Cash Per Share (mrq),1.24
+53,Total Debt (mrq),628740000.0
+54,Total Debt/Equity (mrq),47.64
+55,Current Ratio (mrq),2.36
+56,Book Value Per Share (mrq),15.30
+57,Operating Cash Flow (ttm),NA
+58,Levered Free Cash Flow (ttm),NA

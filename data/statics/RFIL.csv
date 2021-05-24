@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,60760000.0
+1,Enterprise Value 3,49850000.0
+2,Trailing P/E ,NA
+3,Forward P/E 1,NA
+4,PEG Ratio (5 yr expected) 1,NA
+5,Price/Sales (ttm),1.41
+6,Price/Book (mrq),1.89
+7,Enterprise Value/Revenue 3,1.16
+8,Enterprise Value/EBITDA 6,-202.66
+9,Beta (5Y Monthly) ,0.98
+10,52-Week Change 3,1.96%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,7.07
+13,52 Week Low 3,3.31
+14,50-Day Moving Average 3,5.31
+15,200-Day Moving Average 3,4.77
+16,Avg Vol (3 month) 3,94.72k
+17,Avg Vol (10 day) 3,75.61k
+18,Shares Outstanding 5,9850000.0
+19,Float ,7830000.0
+20,% Held by Insiders 1,12.27%
+21,% Held by Institutions 1,30.90%
+22,"Shares Short (Jan 14, 2021) 4",16.82k
+23,"Short Ratio (Jan 14, 2021) 4",0.16
+24,"Short % of Float (Jan 14, 2021) 4",0.18%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",0.17%
+26,"Shares Short (prior month Dec 14, 2020) 4",21.06k
+27,Forward Annual Dividend Rate 4,NA
+28,Forward Annual Dividend Yield 4,NA
+29,Trailing Annual Dividend Rate 3,0.04
+30,Trailing Annual Dividend Yield 3,0.64%
+31,5 Year Average Dividend Yield 4,3.07
+32,Payout Ratio 4,NA
+33,Dividend Date 3,"Apr 14, 2020"
+34,Ex-Dividend Date 4,"Mar 29, 2020"
+35,Last Split Factor 2,2:1
+36,Last Split Date 3,"Mar 10, 2011"
+37,Fiscal Year Ends ,"Oct 30, 2020"
+38,Most Recent Quarter (mrq),"Oct 30, 2020"
+39,Profit Margin ,-0.19%
+40,Operating Margin (ttm),-2.93%
+41,Return on Assets (ttm),-2.01%
+42,Return on Equity (ttm),-0.25%
+43,Revenue (ttm),43040000.0
+44,Revenue Per Share (ttm),4.45
+45,Quarterly Revenue Growth (yoy),-31.20%
+46,Gross Profit (ttm),11570000.0
+47,EBITDA ,-246k
+48,Net Income Avi to Common (ttm),-81k
+49,Diluted EPS (ttm),-0.01
+50,Quarterly Earnings Growth (yoy),-79.70%
+51,Total Cash (mrq),15800000.0
+52,Total Cash Per Share (mrq),1.6
+53,Total Debt (mrq),4300000.0
+54,Total Debt/Equity (mrq),13.40
+55,Current Ratio (mrq),4.63
+56,Book Value Per Share (mrq),3.27
+57,Operating Cash Flow (ttm),4550000.0
+58,Levered Free Cash Flow (ttm),4610000.0

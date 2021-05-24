@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,1960000000.0
+1,Enterprise Value 3,1500000000.0
+2,Trailing P/E ,NA
+3,Forward P/E 1,-9.14
+4,PEG Ratio (5 yr expected) 1,-10.19
+5,Price/Sales (ttm),13.53
+6,Price/Book (mrq),4.17
+7,Enterprise Value/Revenue 3,10.33
+8,Enterprise Value/EBITDA 6,-15.33
+9,Beta (5Y Monthly) ,1.21
+10,52-Week Change 3,-8.53%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,54.97
+13,52 Week Low 3,20.03
+14,50-Day Moving Average 3,45.90
+15,200-Day Moving Average 3,35.33
+16,Avg Vol (3 month) 3,497.38k
+17,Avg Vol (10 day) 3,416.04k
+18,Shares Outstanding 5,42310000.0
+19,Float ,30430000.0
+20,% Held by Insiders 1,14.54%
+21,% Held by Institutions 1,89.90%
+22,"Shares Short (Jan 14, 2021) 4",2450000.0
+23,"Short Ratio (Jan 14, 2021) 4",3.88
+24,"Short % of Float (Jan 14, 2021) 4",8.61%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",5.80%
+26,"Shares Short (prior month Dec 14, 2020) 4",3290000.0
+27,Forward Annual Dividend Rate 4,NA
+28,Forward Annual Dividend Yield 4,NA
+29,Trailing Annual Dividend Rate 3,NA
+30,Trailing Annual Dividend Yield 3,NA
+31,5 Year Average Dividend Yield 4,NA
+32,Payout Ratio 4,0.00%
+33,Dividend Date 3,NA
+34,Ex-Dividend Date 4,NA
+35,Last Split Factor 2,NA
+36,Last Split Date 3,NA
+37,Fiscal Year Ends ,"Dec 30, 2019"
+38,Most Recent Quarter (mrq),"Sep 29, 2020"
+39,Profit Margin ,-63.13%
+40,Operating Margin (ttm),-73.09%
+41,Return on Assets (ttm),-12.60%
+42,Return on Equity (ttm),-20.69%
+43,Revenue (ttm),144890000.0
+44,Revenue Per Share (ttm),3.90
+45,Quarterly Revenue Growth (yoy),572.90%
+46,Gross Profit (ttm),-97190000.0
+47,EBITDA ,-97680000.0
+48,Net Income Avi to Common (ttm),-91470000.0
+49,Diluted EPS (ttm),-2.47
+50,Quarterly Earnings Growth (yoy),NA
+51,Total Cash (mrq),241520000.0
+52,Total Cash Per Share (mrq),6.46
+53,Total Debt (mrq),61020000.0
+54,Total Debt/Equity (mrq),14.68
+55,Current Ratio (mrq),6.08
+56,Book Value Per Share (mrq),11.11
+57,Operating Cash Flow (ttm),-119030000.0
+58,Levered Free Cash Flow (ttm),-127440000.0

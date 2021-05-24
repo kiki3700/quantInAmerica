@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,1430000000.0
+1,Enterprise Value 3,1540000000.0
+2,Trailing P/E ,31.63
+3,Forward P/E 1,18.63
+4,PEG Ratio (5 yr expected) 1,NA
+5,Price/Sales (ttm),2.00
+6,Price/Book (mrq),1.74
+7,Enterprise Value/Revenue 3,2.15
+8,Enterprise Value/EBITDA 6,20.69
+9,Beta (5Y Monthly) ,0.50
+10,52-Week Change 3,8.57%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,57.41
+13,52 Week Low 3,25.34
+14,50-Day Moving Average 3,48.87
+15,200-Day Moving Average 3,47.84
+16,Avg Vol (3 month) 3,207.55k
+17,Avg Vol (10 day) 3,219.9k
+18,Shares Outstanding 5,30610000.0
+19,Float ,29650000.0
+20,% Held by Insiders 1,3.11%
+21,% Held by Institutions 1,99.87%
+22,"Shares Short (Jan 14, 2021) 4",588.81k
+23,"Short Ratio (Jan 14, 2021) 4",2.6
+24,"Short % of Float (Jan 14, 2021) 4",1.98%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",1.92%
+26,"Shares Short (prior month Dec 14, 2020) 4",379.81k
+27,Forward Annual Dividend Rate 4,1.2
+28,Forward Annual Dividend Yield 4,2.57%
+29,Trailing Annual Dividend Rate 3,1.20
+30,Trailing Annual Dividend Yield 3,2.57%
+31,5 Year Average Dividend Yield 4,2.70
+32,Payout Ratio 4,81.08%
+33,Dividend Date 3,"Dec 30, 2020"
+34,Ex-Dividend Date 4,"Dec 10, 2020"
+35,Last Split Factor 2,NA
+36,Last Split Date 3,NA
+37,Fiscal Year Ends ,"Dec 30, 2019"
+38,Most Recent Quarter (mrq),"Sep 29, 2020"
+39,Profit Margin ,6.36%
+40,Operating Margin (ttm),9.84%
+41,Return on Assets (ttm),1.02%
+42,Return on Equity (ttm),5.73%
+43,Revenue (ttm),715650000.0
+44,Revenue Per Share (ttm),23.46
+45,Quarterly Revenue Growth (yoy),-23.30%
+46,Gross Profit (ttm),235020000.0
+47,EBITDA ,74460000.0
+48,Net Income Avi to Common (ttm),45550000.0
+49,Diluted EPS (ttm),1.48
+50,Quarterly Earnings Growth (yoy),NA
+51,Total Cash (mrq),211960000.0
+52,Total Cash Per Share (mrq),6.92
+53,Total Debt (mrq),321360000.0
+54,Total Debt/Equity (mrq),39.12
+55,Current Ratio (mrq),1.51
+56,Book Value Per Share (mrq),26.83
+57,Operating Cash Flow (ttm),1050000000.0
+58,Levered Free Cash Flow (ttm),-31400000.0

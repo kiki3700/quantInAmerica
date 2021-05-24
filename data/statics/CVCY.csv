@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,215420000.0
+1,Enterprise Value 3,144170000.0
+2,Trailing P/E ,10.63
+3,Forward P/E 1,11.48
+4,PEG Ratio (5 yr expected) 1,1.27
+5,Price/Sales (ttm),2.92
+6,Price/Book (mrq),0.88
+7,Enterprise Value/Revenue 3,1.95
+8,Enterprise Value/EBITDA 6,NA
+9,Beta (5Y Monthly) ,0.78
+10,52-Week Change 3,-11.03%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,19.98
+13,52 Week Low 3,10.59
+14,50-Day Moving Average 3,15.85
+15,200-Day Moving Average 3,14.01
+16,Avg Vol (3 month) 3,23.95k
+17,Avg Vol (10 day) 3,35.06k
+18,Shares Outstanding 5,12510000.0
+19,Float ,10450000.0
+20,% Held by Insiders 1,16.37%
+21,% Held by Institutions 1,47.98%
+22,"Shares Short (Jan 14, 2021) 4",106.4k
+23,"Short Ratio (Jan 14, 2021) 4",4.85
+24,"Short % of Float (Jan 14, 2021) 4",1.01%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",0.85%
+26,"Shares Short (prior month Dec 14, 2020) 4",104.05k
+27,Forward Annual Dividend Rate 4,0.44
+28,Forward Annual Dividend Yield 4,2.63%
+29,Trailing Annual Dividend Rate 3,0.44
+30,Trailing Annual Dividend Yield 3,2.54%
+31,5 Year Average Dividend Yield 4,1.84
+32,Payout Ratio 4,27.16%
+33,Dividend Date 3,"Feb 25, 2021"
+34,Ex-Dividend Date 4,"Feb 10, 2021"
+35,Last Split Factor 2,2:1
+36,Last Split Date 3,"Oct 31, 2005"
+37,Fiscal Year Ends ,"Dec 30, 2020"
+38,Most Recent Quarter (mrq),"Dec 30, 2020"
+39,Profit Margin ,27.58%
+40,Operating Margin (ttm),36.97%
+41,Return on Assets (ttm),1.13%
+42,Return on Equity (ttm),8.60%
+43,Revenue (ttm),73780000.0
+44,Revenue Per Share (ttm),5.89
+45,Quarterly Revenue Growth (yoy),20.90%
+46,Gross Profit (ttm),73780000.0
+47,EBITDA ,NA
+48,Net Income Avi to Common (ttm),20350000.0
+49,Diluted EPS (ttm),1.62
+50,Quarterly Earnings Growth (yoy),59.10%
+51,Total Cash (mrq),70280000.0
+52,Total Cash Per Share (mrq),5.62
+53,Total Debt (mrq),5160000.0
+54,Total Debt/Equity (mrq),NA
+55,Current Ratio (mrq),NA
+56,Book Value Per Share (mrq),19.59
+57,Operating Cash Flow (ttm),NA
+58,Levered Free Cash Flow (ttm),NA

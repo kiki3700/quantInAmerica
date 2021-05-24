@@ -1,0 +1,31 @@
+,symbol,name,capital,sector,industry,market,1y,1w
+1,PTON,"Peloton Interactive, Inc. - Common Stock",3.77E+13,Consumer Cyclical,Leisure,nasdaq,2.3886816853,0.035341069061
+2,ALRN,"Aileron Therapeutics, Inc. - Common Stock",69339000000,Healthcare,Biotechnology,nasdaq,1.3593073593,0.038095238095
+3,ALT,"Altimmune, Inc. - Common Stock",4.92E+11,Healthcare,Biotechnology,nasdaq,5.3373493976,0.099268547544
+4,ZM,"Zoom Video Communications, Inc. - Class A Common Stock",1.47E+13,Communication Services,Telecom Services,nasdaq,5.3662253276,0.13835712847
+5,EXPI,"eXp World Holdings, Inc. - Common Stock",4.10E+12,Real Estate,Real Estate Services,nasdaq,4.0138890741,0.19063328936
+6,CAPR,"Capricor Therapeutics, Inc. - Common Stock",94872000000,Healthcare,Biotechnology,nasdaq,1.4514285714,-0.013793103448
+7,CBAY,CymaBay Therapeutics Inc. - Common Stock,5.39E+11,Healthcare,Biotechnology,nasdaq,3.2873563218,-0.038659793814
+8,COGT,"Cogent Biosciences, Inc. - Common Stock",1.09E+11,Healthcare,Biotechnology,nasdaq,2.3664383562,-0.0030425963489
+9,OSTK,"Overstock.com, Inc. - Common Stock",3.57E+12,Consumer Cyclical,Internet Retail,nasdaq,8.3185486559,0.18960197649
+10,W,Wayfair Inc.,"2,825,000,000,000",Consumer Cyclical,Internet Retail,nyse,1.9949447381,0.048803016912
+11,HGEN,"Humanigen, Inc. - Common Stock",6.34E+11,Healthcare,Biotechnology,nasdaq,2.4690909091,0.14663461538
+12,SITM,SiTime Corporation - Common Stock,1.51E+12,Technology,Semiconductors,nasdaq,4.0463122927,0.073592057823
+13,MCRB,"Seres Therapeutics, Inc. - Common Stock",2.90E+12,Healthcare,Biotechnology,nasdaq,6.4384615385,-0.09485176583
+14,FSLY,"Fastly, Inc.","1,412,000,000,000",Technology,Software-Application,nyse,3.1041868985,0.050336417883
+15,OTRK,"Ontrak, Inc. - Common Stock",1.15E+12,Healthcare,Medical Care Facilities,nasdaq,2.3355305208,-0.032319811966
+16,PEIX,"Pacific Ethanol, Inc. - Common Stock",5.79E+11,Energy,Oil & Gas Refining & Marketing,nasdaq,13.234042553,0.19039145907
+17,PLL,Piedmont Lithium Limited - American Depositary Shares,4.05E+11,Basic Materials,Other Industrial Metals & Mining,nasdaq,2.8285638312,0.082779012667
+18,AMRK,"A-Mark Precious Metals, Inc. - Common Stock",2.60E+11,Financial Services,Capital Markets,nasdaq,2.2404254255,-0.015832051185
+19,LTRPB,"Liberty TripAdvisor Holdings, Inc. - Series B Common Stock",2.39E+11,Communication Services,Internet Content & Information,nasdaq,3.6223592593,0.052899540501
+20,SRNE,"Sorrento Therapeutics, Inc. - Common Stock",3.12E+11,Healthcare,Biotechnology,nasdaq,1.8798586572,0.065359477124
+21,SURF,"Surface Oncology, Inc. - Common Stock",3.67E+11,Healthcare,Biotechnology,nasdaq,2.9104477612,0.018134715026
+22,TRVN,"Trevena, Inc. - Common Stock",4658000000,Healthcare,Biotechnology,nasdaq,2.5994397759,0.048979591837
+23,AEYE,"AudioEye, Inc. - Common Stock",1.61E+11,Technology,Software-Application,nasdaq,2.0862745098,-0.062537280373
+24,LAC,Lithium Americas Corp.,"131,000,000,000",Basic Materials,Other Industrial Metals & Mining,nyse,3.0139372822,0.089877010407
+25,HOME,At Home Group Inc.,"124,000,000,000",Consumer Cyclical,Specialty Retail,nyse,1.233372112,0.17712170972
+26,AMTX,"Aemetis, Inc - Common Stock",70443000000,Energy,Oil & Gas Refining & Marketing,nasdaq,1.2901554404,0.094059405941
+27,NLS,"Nautilus Group, Inc. (The)","66,227,000,000",Consumer Cyclical,Leisure,nyse,13.139705882,-0.013340174448
+28,EFOI,"Energy Focus, Inc. - Common Stock",27409000000,Consumer Cyclical,Furnishings,nasdaq,1.6390243902,0.13179916318
+29,OMI,"Owens & Minor, Inc.","194,000,000,000",Healthcare,Medical Distribution,nyse,2.779969651,0.067723960566
+30,KODK,Eastman Kodak Company,"7,576,000,000",Industrials,Specialty Business Services,nyse,1.8150943396,-0.0040053404539

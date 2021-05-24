@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,15580000000.0
+1,Enterprise Value 3,11630000000.0
+2,Trailing P/E ,9.23
+3,Forward P/E 1,NA
+4,PEG Ratio (5 yr expected) 1,NA
+5,Price/Sales (ttm),1.98
+6,Price/Book (mrq),0.89
+7,Enterprise Value/Revenue 3,1.48
+8,Enterprise Value/EBITDA 6,7.40
+9,Beta (5Y Monthly) ,0.83
+10,52-Week Change 3,-1.00%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,26.23
+13,52 Week Low 3,16.13
+14,50-Day Moving Average 3,25.69
+15,200-Day Moving Average 3,25.62
+16,Avg Vol (3 month) 3,33.58k
+17,Avg Vol (10 day) 3,37.25k
+18,Shares Outstanding 5,402940000.0
+19,Float ,358970000.0
+20,% Held by Insiders 1,0.00%
+21,% Held by Institutions 1,26.66%
+22,"Shares Short (Jan 14, 2021) 4",6.91k
+23,"Short Ratio (Jan 14, 2021) 4",0.27
+24,"Short % of Float (Jan 14, 2021) 4",NA
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",NA
+26,"Shares Short (prior month Dec 14, 2020) 4",8.58k
+27,Forward Annual Dividend Rate 4,1.31
+28,Forward Annual Dividend Yield 4,5.09%
+29,Trailing Annual Dividend Rate 3,NA
+30,Trailing Annual Dividend Yield 3,NA
+31,5 Year Average Dividend Yield 4,NA
+32,Payout Ratio 4,NA
+33,Dividend Date 3,"Dec 30, 2020"
+34,Ex-Dividend Date 4,"Dec 13, 2020"
+35,Last Split Factor 2,NA
+36,Last Split Date 3,NA
+37,Fiscal Year Ends ,"Dec 30, 2019"
+38,Most Recent Quarter (mrq),"Sep 29, 2020"
+39,Profit Margin ,15.08%
+40,Operating Margin (ttm),19.01%
+41,Return on Assets (ttm),2.39%
+42,Return on Equity (ttm),9.31%
+43,Revenue (ttm),7880000000.0
+44,Revenue Per Share (ttm),19.56
+45,Quarterly Revenue Growth (yoy),37.50%
+46,Gross Profit (ttm),2950000000.0
+47,EBITDA ,1570000000.0
+48,Net Income Avi to Common (ttm),1150000000.0
+49,Diluted EPS (ttm),2.78
+50,Quarterly Earnings Growth (yoy),6.80%
+51,Total Cash (mrq),3480000000.0
+52,Total Cash Per Share (mrq),8.6
+53,Total Debt (mrq),3140000000.0
+54,Total Debt/Equity (mrq),23.63
+55,Current Ratio (mrq),2.39
+56,Book Value Per Share (mrq),28.82
+57,Operating Cash Flow (ttm),2840000000.0
+58,Levered Free Cash Flow (ttm),-2020000000.0

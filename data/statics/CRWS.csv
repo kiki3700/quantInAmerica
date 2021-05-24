@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,79730000.0
+1,Enterprise Value 3,80150000.0
+2,Trailing P/E ,10.98
+3,Forward P/E 1,11.58
+4,PEG Ratio (5 yr expected) 1,2.08
+5,Price/Sales (ttm),1.04
+6,Price/Book (mrq),1.80
+7,Enterprise Value/Revenue 3,1.04
+8,Enterprise Value/EBITDA 6,7.53
+9,Beta (5Y Monthly) ,0.99
+10,52-Week Change 3,28.36%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,8.19
+13,52 Week Low 3,4.13
+14,50-Day Moving Average 3,7.38
+15,200-Day Moving Average 3,6.33
+16,Avg Vol (3 month) 3,33.44k
+17,Avg Vol (10 day) 3,18.43k
+18,Shares Outstanding 5,9980000.0
+19,Float ,8950000.0
+20,% Held by Insiders 1,12.62%
+21,% Held by Institutions 1,40.53%
+22,"Shares Short (Jan 14, 2021) 4",4.34k
+23,"Short Ratio (Jan 14, 2021) 4",0.22
+24,"Short % of Float (Jan 14, 2021) 4",0.05%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",0.04%
+26,"Shares Short (prior month Dec 14, 2020) 4",5.93k
+27,Forward Annual Dividend Rate 4,0.32
+28,Forward Annual Dividend Yield 4,4.06%
+29,Trailing Annual Dividend Rate 3,0.24
+30,Trailing Annual Dividend Yield 3,3.03%
+31,5 Year Average Dividend Yield 4,4.94
+32,Payout Ratio 4,32.88%
+33,Dividend Date 3,"Dec 30, 2020"
+34,Ex-Dividend Date 4,"Dec 09, 2020"
+35,Last Split Factor 2,2:1
+36,Last Split Date 3,"Jan 11, 1990"
+37,Fiscal Year Ends ,"Mar 28, 2020"
+38,Most Recent Quarter (mrq),"Sep 26, 2020"
+39,Profit Margin ,9.65%
+40,Operating Margin (ttm),11.98%
+41,Return on Assets (ttm),9.70%
+42,Return on Equity (ttm),16.78%
+43,Revenue (ttm),76760000.0
+44,Revenue Per Share (ttm),7.54
+45,Quarterly Revenue Growth (yoy),16.70%
+46,Gross Profit (ttm),21590000.0
+47,EBITDA ,10650000.0
+48,Net Income Avi to Common (ttm),7410000.0
+49,Diluted EPS (ttm),0.73
+50,Quarterly Earnings Growth (yoy),39.80%
+51,Total Cash (mrq),6830000.0
+52,Total Cash Per Share (mrq),0.67
+53,Total Debt (mrq),6380000.0
+54,Total Debt/Equity (mrq),14.03
+55,Current Ratio (mrq),3.55
+56,Book Value Per Share (mrq),4.45
+57,Operating Cash Flow (ttm),10430000.0
+58,Levered Free Cash Flow (ttm),9920000.0

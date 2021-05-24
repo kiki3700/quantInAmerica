@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,190870000.0
+1,Enterprise Value 3,317360000.0
+2,Trailing P/E ,17.97
+3,Forward P/E 1,16.34
+4,PEG Ratio (5 yr expected) 1,NA
+5,Price/Sales (ttm),3.03
+6,Price/Book (mrq),2.14
+7,Enterprise Value/Revenue 3,5.03
+8,Enterprise Value/EBITDA 6,15.30
+9,Beta (5Y Monthly) ,-0.48
+10,52-Week Change 3,-7.31%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,31.98
+13,52 Week Low 3,22.08
+14,50-Day Moving Average 3,23.96
+15,200-Day Moving Average 3,23.88
+16,Avg Vol (3 month) 3,14.76k
+17,Avg Vol (10 day) 3,17.15k
+18,Shares Outstanding 5,8150000.0
+19,Float ,7260000.0
+20,% Held by Insiders 1,6.87%
+21,% Held by Institutions 1,40.32%
+22,"Shares Short (Jan 14, 2021) 4",80.53k
+23,"Short Ratio (Jan 14, 2021) 4",4.71
+24,"Short % of Float (Jan 14, 2021) 4",1.05%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",0.99%
+26,"Shares Short (prior month Dec 14, 2020) 4",74.75k
+27,Forward Annual Dividend Rate 4,0.74
+28,Forward Annual Dividend Yield 4,3.16%
+29,Trailing Annual Dividend Rate 3,0.70
+30,Trailing Annual Dividend Yield 3,2.99%
+31,5 Year Average Dividend Yield 4,2.59
+32,Payout Ratio 4,53.08%
+33,Dividend Date 3,"Jan 31, 2021"
+34,Ex-Dividend Date 4,"Jan 13, 2021"
+35,Last Split Factor 2,3:2
+36,Last Split Date 3,"Mar 01, 2017"
+37,Fiscal Year Ends ,"Sep 29, 2020"
+38,Most Recent Quarter (mrq),"Sep 29, 2020"
+39,Profit Margin ,16.75%
+40,Operating Margin (ttm),20.00%
+41,Return on Assets (ttm),2.92%
+42,Return on Equity (ttm),12.29%
+43,Revenue (ttm),63080000.0
+44,Revenue Per Share (ttm),7.76
+45,Quarterly Revenue Growth (yoy),-0.70%
+46,Gross Profit (ttm),22600000.0
+47,EBITDA ,20740000.0
+48,Net Income Avi to Common (ttm),10560000.0
+49,Diluted EPS (ttm),1.30
+50,Quarterly Earnings Growth (yoy),NA
+51,Total Cash (mrq),291.07k
+52,Total Cash Per Share (mrq),0.04
+53,Total Debt (mrq),126040000.0
+54,Total Debt/Equity (mrq),141.80
+55,Current Ratio (mrq),0.87
+56,Book Value Per Share (mrq),10.89
+57,Operating Cash Flow (ttm),12820000.0
+58,Levered Free Cash Flow (ttm),-14220000.0

@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,9340000.0
+1,Enterprise Value 3,26470000.0
+2,Trailing P/E ,NA
+3,Forward P/E 1,NA
+4,PEG Ratio (5 yr expected) 1,NA
+5,Price/Sales (ttm),0.05
+6,Price/Book (mrq),0.17
+7,Enterprise Value/Revenue 3,0.15
+8,Enterprise Value/EBITDA 6,-1.37
+9,Beta (5Y Monthly) ,1.96
+10,52-Week Change 3,-80.15%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,2.7400
+13,52 Week Low 3,0.2400
+14,50-Day Moving Average 3,0.3108
+15,200-Day Moving Average 3,0.6013
+16,Avg Vol (3 month) 3,318.35k
+17,Avg Vol (10 day) 3,59.2k
+18,Shares Outstanding 5,30320000.0
+19,Float ,11100000.0
+20,% Held by Insiders 1,64.15%
+21,% Held by Institutions 1,3.44%
+22,"Shares Short (Oct 29, 2020) 4",1120000.0
+23,"Short Ratio (Oct 29, 2020) 4",0.43
+24,"Short % of Float (Oct 29, 2020) 4",7.14%
+25,"Short % of Shares Outstanding (Oct 29, 2020) 4",3.70%
+26,"Shares Short (prior month Sep 29, 2020) 4",670.63k
+27,Forward Annual Dividend Rate 4,NA
+28,Forward Annual Dividend Yield 4,NA
+29,Trailing Annual Dividend Rate 3,NA
+30,Trailing Annual Dividend Yield 3,NA
+31,5 Year Average Dividend Yield 4,NA
+32,Payout Ratio 4,0.00%
+33,Dividend Date 3,NA
+34,Ex-Dividend Date 4,NA
+35,Last Split Factor 2,1:20
+36,Last Split Date 3,"Jun 06, 2017"
+37,Fiscal Year Ends ,"Dec 30, 2018"
+38,Most Recent Quarter (mrq),"Sep 29, 2019"
+39,Profit Margin ,-16.05%
+40,Operating Margin (ttm),-13.55%
+41,Return on Assets (ttm),-14.15%
+42,Return on Equity (ttm),-85.18%
+43,Revenue (ttm),180120000.0
+44,Revenue Per Share (ttm),6.54
+45,Quarterly Revenue Growth (yoy),-13.00%
+46,Gross Profit (ttm),95030000.0
+47,EBITDA ,-19280000.0
+48,Net Income Avi to Common (ttm),-30950000.0
+49,Diluted EPS (ttm),-1.1820
+50,Quarterly Earnings Growth (yoy),NA
+51,Total Cash (mrq),7270000.0
+52,Total Cash Per Share (mrq),0.24
+53,Total Debt (mrq),24420000.0
+54,Total Debt/Equity (mrq),43.48
+55,Current Ratio (mrq),1.23
+56,Book Value Per Share (mrq),1.86
+57,Operating Cash Flow (ttm),-15380000.0
+58,Levered Free Cash Flow (ttm),-12440000.0

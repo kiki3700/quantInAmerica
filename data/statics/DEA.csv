@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,1850000000.0
+1,Enterprise Value 3,2900000000.0
+2,Trailing P/E ,161.35
+3,Forward P/E 1,81.25
+4,PEG Ratio (5 yr expected) 1,NA
+5,Price/Sales (ttm),7.68
+6,Price/Book (mrq),1.60
+7,Enterprise Value/Revenue 3,12.04
+8,Enterprise Value/EBITDA 6,20.98
+9,Beta (5Y Monthly) ,0.48
+10,52-Week Change 3,-7.69%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,29.69
+13,52 Week Low 3,19.00
+14,50-Day Moving Average 3,22.49
+15,200-Day Moving Average 3,22.76
+16,Avg Vol (3 month) 3,528.62k
+17,Avg Vol (10 day) 3,434.19k
+18,Shares Outstanding 5,81230000.0
+19,Float ,80780000.0
+20,% Held by Insiders 1,0.43%
+21,% Held by Institutions 1,102.31%
+22,"Shares Short (Jan 14, 2021) 4",4240000.0
+23,"Short Ratio (Jan 14, 2021) 4",7.28
+24,"Short % of Float (Jan 14, 2021) 4",7.15%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",5.22%
+26,"Shares Short (prior month Dec 14, 2020) 4",3730000.0
+27,Forward Annual Dividend Rate 4,1.04
+28,Forward Annual Dividend Yield 4,4.58%
+29,Trailing Annual Dividend Rate 3,1.04
+30,Trailing Annual Dividend Yield 3,4.58%
+31,5 Year Average Dividend Yield 4,4.82
+32,Payout Ratio 4,742.86%
+33,Dividend Date 3,"Dec 10, 2020"
+34,Ex-Dividend Date 4,"Nov 08, 2020"
+35,Last Split Factor 2,NA
+36,Last Split Date 3,NA
+37,Fiscal Year Ends ,"Dec 30, 2019"
+38,Most Recent Quarter (mrq),"Sep 29, 2020"
+39,Profit Margin ,4.59%
+40,Operating Margin (ttm),20.63%
+41,Return on Assets (ttm),1.34%
+42,Return on Equity (ttm),1.01%
+43,Revenue (ttm),240650000.0
+44,Revenue Per Share (ttm),3.15
+45,Quarterly Revenue Growth (yoy),6.20%
+46,Gross Profit (ttm),149800000.0
+47,EBITDA ,138040000.0
+48,Net Income Avi to Common (ttm),10810000.0
+49,Diluted EPS (ttm),0.14
+50,Quarterly Earnings Growth (yoy),676.70%
+51,Total Cash (mrq),9040000.0
+52,Total Cash Per Share (mrq),0.11
+53,Total Debt (mrq),916310000.0
+54,Total Debt/Equity (mrq),70.48
+55,Current Ratio (mrq),1.73
+56,Book Value Per Share (mrq),14.21
+57,Operating Cash Flow (ttm),131560000.0
+58,Levered Free Cash Flow (ttm),83830000.0

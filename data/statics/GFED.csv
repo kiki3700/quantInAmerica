@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,78550000.0
+1,Enterprise Value 3,37750000.0
+2,Trailing P/E ,11.46
+3,Forward P/E 1,16.07
+4,PEG Ratio (5 yr expected) 1,NA
+5,Price/Sales (ttm),2.08
+6,Price/Book (mrq),0.87
+7,Enterprise Value/Revenue 3,1.00
+8,Enterprise Value/EBITDA 6,NA
+9,Beta (5Y Monthly) ,0.59
+10,52-Week Change 3,-26.25%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,24.37
+13,52 Week Low 3,12.70
+14,50-Day Moving Average 3,17.98
+15,200-Day Moving Average 3,15.46
+16,Avg Vol (3 month) 3,1.64k
+17,Avg Vol (10 day) 3,562
+18,Shares Outstanding 5,4360000.0
+19,Float ,2500000.0
+20,% Held by Insiders 1,10.48%
+21,% Held by Institutions 1,46.33%
+22,"Shares Short (Jan 14, 2021) 4",1.14k
+23,"Short Ratio (Jan 14, 2021) 4",0.59
+24,"Short % of Float (Jan 14, 2021) 4",0.04%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",0.03%
+26,"Shares Short (prior month Dec 14, 2020) 4",311
+27,Forward Annual Dividend Rate 4,0.6
+28,Forward Annual Dividend Yield 4,3.37%
+29,Trailing Annual Dividend Rate 3,0.60
+30,Trailing Annual Dividend Yield 3,3.37%
+31,5 Year Average Dividend Yield 4,2.26
+32,Payout Ratio 4,31.91%
+33,Dividend Date 3,"Jan 14, 2021"
+34,Ex-Dividend Date 4,"Jan 03, 2021"
+35,Last Split Factor 2,1931:1000
+36,Last Split Date 3,"Dec 30, 1997"
+37,Fiscal Year Ends ,"Dec 30, 2020"
+38,Most Recent Quarter (mrq),"Dec 30, 2020"
+39,Profit Margin ,18.11%
+40,Operating Margin (ttm),21.38%
+41,Return on Assets (ttm),0.63%
+42,Return on Equity (ttm),7.87%
+43,Revenue (ttm),37730000.0
+44,Revenue Per Share (ttm),8.73
+45,Quarterly Revenue Growth (yoy),-8.60%
+46,Gross Profit (ttm),37730000.0
+47,EBITDA ,NA
+48,Net Income Avi to Common (ttm),6830000.0
+49,Diluted EPS (ttm),1.57
+50,Quarterly Earnings Growth (yoy),-59.10%
+51,Total Cash (mrq),148420000.0
+52,Total Cash Per Share (mrq),34.52
+53,Total Debt (mrq),109590000.0
+54,Total Debt/Equity (mrq),NA
+55,Current Ratio (mrq),NA
+56,Book Value Per Share (mrq),20.69
+57,Operating Cash Flow (ttm),NA
+58,Levered Free Cash Flow (ttm),NA

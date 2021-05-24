@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,1000000000.0
+1,Enterprise Value 3,1080000000.0
+2,Trailing P/E ,18.81
+3,Forward P/E 1,17.86
+4,PEG Ratio (5 yr expected) 1,2.44
+5,Price/Sales (ttm),0.45
+6,Price/Book (mrq),2.46
+7,Enterprise Value/Revenue 3,0.49
+8,Enterprise Value/EBITDA 6,8.59
+9,Beta (5Y Monthly) ,1.05
+10,52-Week Change 3,106.78%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,67.78
+13,52 Week Low 3,16.33
+14,50-Day Moving Average 3,60.93
+15,200-Day Moving Average 3,46.70
+16,Avg Vol (3 month) 3,131.34k
+17,Avg Vol (10 day) 3,133.06k
+18,Shares Outstanding 5,16730000.0
+19,Float ,16280000.000000002
+20,% Held by Insiders 1,2.71%
+21,% Held by Institutions 1,94.04%
+22,"Shares Short (Jan 14, 2021) 4",302.79k
+23,"Short Ratio (Jan 14, 2021) 4",2.24
+24,"Short % of Float (Jan 14, 2021) 4",2.27%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",1.81%
+26,"Shares Short (prior month Dec 14, 2020) 4",305.73k
+27,Forward Annual Dividend Rate 4,NA
+28,Forward Annual Dividend Yield 4,NA
+29,Trailing Annual Dividend Rate 3,NA
+30,Trailing Annual Dividend Yield 3,NA
+31,5 Year Average Dividend Yield 4,NA
+32,Payout Ratio 4,0.00%
+33,Dividend Date 3,NA
+34,Ex-Dividend Date 4,NA
+35,Last Split Factor 2,NA
+36,Last Split Date 3,NA
+37,Fiscal Year Ends ,"Dec 30, 2019"
+38,Most Recent Quarter (mrq),"Sep 29, 2020"
+39,Profit Margin ,2.41%
+40,Operating Margin (ttm),3.58%
+41,Return on Assets (ttm),4.93%
+42,Return on Equity (ttm),14.06%
+43,Revenue (ttm),2210000000.0
+44,Revenue Per Share (ttm),132.70
+45,Quarterly Revenue Growth (yoy),4.20%
+46,Gross Profit (ttm),214160000.0
+47,EBITDA ,125700000.0
+48,Net Income Avi to Common (ttm),53380000.0
+49,Diluted EPS (ttm),3.19
+50,Quarterly Earnings Growth (yoy),67.00%
+51,Total Cash (mrq),18950000.0
+52,Total Cash Per Share (mrq),1.13
+53,Total Debt (mrq),93500000.0
+54,Total Debt/Equity (mrq),22.88
+55,Current Ratio (mrq),1.43
+56,Book Value Per Share (mrq),24.44
+57,Operating Cash Flow (ttm),161780000.0
+58,Levered Free Cash Flow (ttm),110320000.0

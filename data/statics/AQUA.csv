@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,3120000000.0
+1,Enterprise Value 3,3890000000.0
+2,Trailing P/E ,47.36
+3,Forward P/E 1,33.40
+4,PEG Ratio (5 yr expected) 1,3.94
+5,Price/Sales (ttm),2.22
+6,Price/Book (mrq),6.17
+7,Enterprise Value/Revenue 3,2.76
+8,Enterprise Value/EBITDA 6,16.26
+9,Beta (5Y Monthly) ,1.92
+10,52-Week Change 3,8.31%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,31.63
+13,52 Week Low 3,7.09
+14,50-Day Moving Average 3,28.09
+15,200-Day Moving Average 3,23.77
+16,Avg Vol (3 month) 3,1130000.0
+17,Avg Vol (10 day) 3,1510000.0
+18,Shares Outstanding 5,119650000.0
+19,Float ,100800000.0
+20,% Held by Insiders 1,1.09%
+21,% Held by Institutions 1,99.66%
+22,"Shares Short (Jan 14, 2021) 4",2140000.0
+23,"Short Ratio (Jan 14, 2021) 4",1.84
+24,"Short % of Float (Jan 14, 2021) 4",2.03%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",1.80%
+26,"Shares Short (prior month Dec 14, 2020) 4",1830000.0
+27,Forward Annual Dividend Rate 4,NA
+28,Forward Annual Dividend Yield 4,NA
+29,Trailing Annual Dividend Rate 3,NA
+30,Trailing Annual Dividend Yield 3,NA
+31,5 Year Average Dividend Yield 4,NA
+32,Payout Ratio 4,0.00%
+33,Dividend Date 3,NA
+34,Ex-Dividend Date 4,NA
+35,Last Split Factor 2,NA
+36,Last Split Date 3,NA
+37,Fiscal Year Ends ,"Sep 29, 2020"
+38,Most Recent Quarter (mrq),"Dec 30, 2020"
+39,Profit Margin ,4.76%
+40,Operating Margin (ttm),9.21%
+41,Return on Assets (ttm),4.43%
+42,Return on Equity (ttm),14.69%
+43,Revenue (ttm),1410000000.0
+44,Revenue Per Share (ttm),11.99
+45,Quarterly Revenue Growth (yoy),-6.90%
+46,Gross Profit (ttm),461310000.0
+47,EBITDA ,238920000.0
+48,Net Income Avi to Common (ttm),66940000.0
+49,Diluted EPS (ttm),0.55
+50,Quarterly Earnings Growth (yoy),-87.90%
+51,Total Cash (mrq),197920000.0
+52,Total Cash Per Share (mrq),1.65
+53,Total Debt (mrq),946740000.0
+54,Total Debt/Equity (mrq),188.61
+55,Current Ratio (mrq),2.08
+56,Book Value Per Share (mrq),4.22
+57,Operating Cash Flow (ttm),169240000.0
+58,Levered Free Cash Flow (ttm),103040000.0

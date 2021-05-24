@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,3500000000.0
+1,Enterprise Value 3,3000000000.0
+2,Trailing P/E ,NA
+3,Forward P/E 1,-9.00
+4,PEG Ratio (5 yr expected) 1,-0.25
+5,Price/Sales (ttm),17.97
+6,Price/Book (mrq),7.27
+7,Enterprise Value/Revenue 3,15.41
+8,Enterprise Value/EBITDA 6,-9.36
+9,Beta (5Y Monthly) ,1.62
+10,52-Week Change 3,4.75%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,56.75
+13,52 Week Low 3,27.77
+14,50-Day Moving Average 3,45.40
+15,200-Day Moving Average 3,41.56
+16,Avg Vol (3 month) 3,819.59k
+17,Avg Vol (10 day) 3,579.29k
+18,Shares Outstanding 5,69260000.0
+19,Float ,61410000.0
+20,% Held by Insiders 1,11.33%
+21,% Held by Institutions 1,92.34%
+22,"Shares Short (Jan 14, 2021) 4",5520000.0
+23,"Short Ratio (Jan 14, 2021) 4",5.45
+24,"Short % of Float (Jan 14, 2021) 4",12.33%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",7.97%
+26,"Shares Short (prior month Dec 14, 2020) 4",5430000.0
+27,Forward Annual Dividend Rate 4,NA
+28,Forward Annual Dividend Yield 4,NA
+29,Trailing Annual Dividend Rate 3,NA
+30,Trailing Annual Dividend Yield 3,NA
+31,5 Year Average Dividend Yield 4,NA
+32,Payout Ratio 4,0.00%
+33,Dividend Date 3,NA
+34,Ex-Dividend Date 4,NA
+35,Last Split Factor 2,NA
+36,Last Split Date 3,NA
+37,Fiscal Year Ends ,"Dec 30, 2019"
+38,Most Recent Quarter (mrq),"Sep 29, 2020"
+39,Profit Margin ,-170.65%
+40,Operating Margin (ttm),-169.40%
+41,Return on Assets (ttm),-25.64%
+42,Return on Equity (ttm),-71.51%
+43,Revenue (ttm),194590000.0
+44,Revenue Per Share (ttm),2.88
+45,Quarterly Revenue Growth (yoy),33.40%
+46,Gross Profit (ttm),-294300000.0
+47,EBITDA ,-320370000.0
+48,Net Income Avi to Common (ttm),-332060000.0
+49,Diluted EPS (ttm),-4.91
+50,Quarterly Earnings Growth (yoy),NA
+51,Total Cash (mrq),605540000.0
+52,Total Cash Per Share (mrq),8.74
+53,Total Debt (mrq),107300000.0
+54,Total Debt/Equity (mrq),22.33
+55,Current Ratio (mrq),9.59
+56,Book Value Per Share (mrq),6.94
+57,Operating Cash Flow (ttm),-334970000.0
+58,Levered Free Cash Flow (ttm),-197060000.0

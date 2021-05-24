@@ -1,0 +1,60 @@
+,index,value
+0,Market Cap (intraday) 5,6230000000.0
+1,Enterprise Value 3,6680000000.0
+2,Trailing P/E ,37.76
+3,Forward P/E 1,12.57
+4,PEG Ratio (5 yr expected) 1,1.60
+5,Price/Sales (ttm),4.67
+6,Price/Book (mrq),4.98
+7,Enterprise Value/Revenue 3,5.01
+8,Enterprise Value/EBITDA 6,14.91
+9,Beta (5Y Monthly) ,1.20
+10,52-Week Change 3,89.81%
+11,S&P500 52-Week Change 3,16.35%
+12,52 Week High 3,137.61
+13,52 Week Low 3,46.37
+14,50-Day Moving Average 3,102.42
+15,200-Day Moving Average 3,101.47
+16,Avg Vol (3 month) 3,557.71k
+17,Avg Vol (10 day) 3,523.55k
+18,Shares Outstanding 5,53000000.0
+19,Float ,47370000.0
+20,% Held by Insiders 1,14.71%
+21,% Held by Institutions 1,83.07%
+22,"Shares Short (Jan 14, 2021) 4",2610000.0
+23,"Short Ratio (Jan 14, 2021) 4",4.38
+24,"Short % of Float (Jan 14, 2021) 4",6.87%
+25,"Short % of Shares Outstanding (Jan 14, 2021) 4",4.93%
+26,"Shares Short (prior month Dec 14, 2020) 4",2069999.9999999998
+27,Forward Annual Dividend Rate 4,NA
+28,Forward Annual Dividend Yield 4,NA
+29,Trailing Annual Dividend Rate 3,NA
+30,Trailing Annual Dividend Yield 3,NA
+31,5 Year Average Dividend Yield 4,NA
+32,Payout Ratio 4,0.00%
+33,Dividend Date 3,NA
+34,Ex-Dividend Date 4,NA
+35,Last Split Factor 2,NA
+36,Last Split Date 3,NA
+37,Fiscal Year Ends ,"Dec 30, 2019"
+38,Most Recent Quarter (mrq),"Sep 29, 2020"
+39,Profit Margin ,12.50%
+40,Operating Margin (ttm),25.37%
+41,Return on Assets (ttm),8.54%
+42,Return on Equity (ttm),14.57%
+43,Revenue (ttm),1330000000.0
+44,Revenue Per Share (ttm),25.47
+45,Quarterly Revenue Growth (yoy),23.50%
+46,Gross Profit (ttm),483100000.0
+47,EBITDA ,447800000.0
+48,Net Income Avi to Common (ttm),166600000.0
+49,Diluted EPS (ttm),3.11
+50,Quarterly Earnings Growth (yoy),-8.60%
+51,Total Cash (mrq),415000000.0
+52,Total Cash Per Share (mrq),7.83
+53,Total Debt (mrq),920800000.0
+54,Total Debt/Equity (mrq),73.58
+55,Current Ratio (mrq),3.20
+56,Book Value Per Share (mrq),23.61
+57,Operating Cash Flow (ttm),413000000.0
+58,Levered Free Cash Flow (ttm),216500000.0
